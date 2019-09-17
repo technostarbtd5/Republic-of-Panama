@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Civilizations>
+    <Row>
+      <Type>CIVILIZATION_PANAMA</Type>
+      <Description>TXT_KEY_CIV_PANAMA_DESC</Description>
+      <Civilopedia></Civilopedia>
+      <CivilopediaTag>TXT_KEY_CIV5_PANAMA</CivilopediaTag>
+      <Strategy></Strategy>
+      <Playable>1</Playable>
+      <AIPlayable>1</AIPlayable>
+      <ShortDescription>TXT_KEY_CIV_PANAMA_SHORT_DESC</ShortDescription>
+      <Adjective>TXT_KEY_CIV_PANAMA_ADJECTIVE</Adjective>
+      <DefaultPlayerColor>PLAYERCOLOR_PANAMA</DefaultPlayerColor>
+      <ArtDefineTag>ART_DEF_CIVILIZATION_PANAMA</ArtDefineTag>
+		<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+		<ArtStyleSuffix>_EURO</ArtStyleSuffix>
+		<ArtStylePrefix>EUROPEAN</ArtStylePrefix>
+      <DerivativeCiv></DerivativeCiv>
+		<PortraitIndex>4</PortraitIndex>
+		<IconAtlas>CIV_COLOR_ATLAS_PANAMA</IconAtlas>
+      <AlphaIconAtlas>CIV_ALPHA_ATLAS_PANAMA</AlphaIconAtlas>
+		<MapImage>PanamaMap.dds</MapImage>
+		<DawnOfManQuote>TXT_KEY_CIV5_DAWN_PANAMA_TEXT</DawnOfManQuote>
+		<DawnOfManImage>AmadorDiplomacy.dds</DawnOfManImage>
+		<DawnOfManAudio></DawnOfManAudio>
+      <SoundtrackTag></SoundtrackTag>
+    </Row>
+  </Civilizations>
+
+  <Civilization_BuildingClassOverrides>
+    <Row>
+      <CivilizationType>CIVILIZATION_PANAMA</CivilizationType>
+      <BuildingClassType>BUILDINGCLASS_SEAPORT</BuildingClassType>
+      <BuildingType>BUILDING_FREE_TRADE_PORT</BuildingType>
+    </Row>
+  </Civilization_BuildingClassOverrides>
+  <Civilization_CityNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_PANAMA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_PANAMA_0</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_PANAMA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_PANAMA_1</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_PANAMA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_PANAMA_2</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_PANAMA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_PANAMA_3</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_PANAMA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_PANAMA_4</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_PANAMA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_PANAMA_5</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_PANAMA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_PANAMA_6</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_PANAMA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_PANAMA_7</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_PANAMA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_PANAMA_8</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_PANAMA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_PANAMA_9</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_PANAMA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_PANAMA_10</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_PANAMA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_PANAMA_11</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_PANAMA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_PANAMA_12</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_PANAMA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_PANAMA_13</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_PANAMA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_PANAMA_14</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_PANAMA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_PANAMA_15</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_PANAMA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_PANAMA_16</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_PANAMA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_PANAMA_17</CityName>
+    </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_PANAMA</CivilizationType>
+		  <CityName>TXT_KEY_CITY_NAME_PANAMA_18</CityName>
+	  </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_PANAMA</CivilizationType>
+		  <CityName>TXT_KEY_CITY_NAME_PANAMA_19</CityName>
+	  </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_PANAMA</CivilizationType>
+		  <CityName>TXT_KEY_CITY_NAME_PANAMA_20</CityName>
+	  </Row>
+  </Civilization_CityNames>
+  <!-- Civilization_DisableTechs -->
+  <Civilization_FreeBuildingClasses>
+    <Row>
+      <CivilizationType>CIVILIZATION_PANAMA</CivilizationType>
+      <BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+    </Row>
+  </Civilization_FreeBuildingClasses>
+  <Civilization_FreeTechs>
+    <Row>
+      <CivilizationType>CIVILIZATION_PANAMA</CivilizationType>
+      <TechType>TECH_AGRICULTURE</TechType>
+    </Row>
+  </Civilization_FreeTechs>
+  <Civilization_FreeUnits>
+    <Row>
+      <CivilizationType>CIVILIZATION_PANAMA</CivilizationType>
+      <UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+      <UnitAIType>UNITAI_SETTLE</UnitAIType>
+      <Count>1</Count>
+    </Row>
+  </Civilization_FreeUnits>
+  <Civilization_Leaders>
+    <Row>
+      <CivilizationType>CIVILIZATION_PANAMA</CivilizationType>
+      <LeaderheadType>LEADER_AMADOR</LeaderheadType>
+    </Row>
+  </Civilization_Leaders>
+  <Civilization_Religions>
+    <Row>
+      <CivilizationType>CIVILIZATION_PANAMA</CivilizationType>
+      <ReligionType>RELIGION_CHRISTIANITY</ReligionType>
+    </Row>
+  </Civilization_Religions>
+  <Civilization_SpyNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_PANAMA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_PANAMA_0</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_PANAMA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_PANAMA_1</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_PANAMA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_PANAMA_2</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_PANAMA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_PANAMA_3</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_PANAMA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_PANAMA_4</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_PANAMA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_PANAMA_5</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_PANAMA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_PANAMA_6</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_PANAMA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_PANAMA_7</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_PANAMA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_PANAMA_8</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_PANAMA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_PANAMA_9</SpyName>
+    </Row>
+  </Civilization_SpyNames>
+  <Civilization_UnitClassOverrides>
+    <Row>
+      <CivilizationType>CIVILIZATION_PANAMA</CivilizationType>
+      <UnitClassType>UNITCLASS_INFANTRY</UnitClassType>
+      <UnitType>UNIT_PANAMA_PUBLIC_FORCES</UnitType>
+    </Row>
+  </Civilization_UnitClassOverrides>
+  <!-- Civilization_Start_Along_Ocean -->
+  <!-- Civilization_Start_Along_River -->
+	<!--Civilization_Start_Region_Priority-->
+  <!-- Civilization_Start_Region_Avoid -->
+	<Civilization_Start_Place_First_Along_Ocean>
+		<Row>
+			<CivilizationType>CIVILIZATION_PANAMA</CivilizationType>
+			<PlaceFirst>1</PlaceFirst>
+		</Row>
+	</Civilization_Start_Place_First_Along_Ocean>
+
+  <PlayerColors>
+    <Row>
+      <Type>PLAYERCOLOR_PANAMA</Type>
+      <PrimaryColor>COLOR_PLAYER_PANAMA_ICON</PrimaryColor>
+      <SecondaryColor>COLOR_PLAYER_PANAMA_BACKGROUND</SecondaryColor>
+      <TextColor>COLOR_PLAYER_BLACK_TEXT</TextColor>
+    </Row>
+  </PlayerColors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_PANAMA_ICON</Type>
+      <Red>0.7</Red>
+      <Green>0.5</Green>
+      <Blue>0.032</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_PANAMA_BACKGROUND</Type>
+      <Red>0.2</Red>
+      <Green>0.13</Green>
+      <Blue>0.01</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+
+
+	<MinorCivilizations>
+		<Update>
+			<Set Description="TXT_KEY_CITYSTATE_GRENADA" ShortDescription="TXT_KEY_CITYSTATE_GRENADA" Adjective="TXT_KEY_CITYSTATE_GRENADA_ADJ" Civilopedia="TXT_KEY_CIV5_GRENADA_TEXT" ArtStyleType="ARTSTYLE_EUROPEAN" ArtStyleSuffix="_EURO" ArtStylePrefix="EURO "/>
+			<Where Type="MINOR_CIV_PANAMA_CITY"/>
+		</Update>
+	</MinorCivilizations>
+	<MinorCivilization_CityNames>
+		<Update>
+			<Set CityName="TXT_KEY_CITYSTATE_GRENADA"/>
+			<Where MinorCivType="MINOR_CIV_PANAMA_CITY"/>
+		</Update>
+	</MinorCivilization_CityNames>
+
+	<Language_en_US>
+    <Row Tag="TXT_KEY_CIV_PANAMA_DESC">
+      <Text>Republic of Panama</Text>
+      <Gender>neuter:an</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_PANAMA_FACTOID_HEADING">
+      <Text>Panama Factoids</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_PANAMA_FACTOID_TEXT">
+      <Text>
+		  Panama, officially called the Republic of Panama (Spanish: República de Panamá), is a transcontinental country situated between North and South America. It is bordered by Costa Rica to the west, Colombia to the southeast, the Caribbean to the north and the Pacific Ocean to the south. The capital and largest city is Panama City, whose metropolitan area is home to nearly half of the country's 3.9 million people.
+	  </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_PANAMA_HEADING_1">
+      <Text>Pre-Columbian period</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_PANAMA_HEADING_2">
+      <Text>Conquest to 1799</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_PANAMA_HEADING_3">
+      <Text>1800s</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_PANAMA_HEADING_4">
+      <Text>Post-colonial Panama</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_PANAMA_HEADING_5">
+      <Text>Post-1970</Text>
+    </Row>
+	<Row Tag="TXT_KEY_CIV5_PANAMA_HEADING_6">
+		<Text>U.S. invasion (1989)</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIV5_PANAMA_HEADING_7">
+		<Text>
+			Post-intervention era
+		</Text>
+	</Row>
+    <Row Tag="TXT_KEY_CIV5_PANAMA_TEXT_1">
+      <Text>
+		  The Isthmus of Panama was formed about 3 million years ago when the land bridge between North and South America finally closed and plants and animals gradually crossed it in both directions. The existence of the isthmus had an impact on the dispersal of people, agriculture and technology throughout the American continent from the appearance of the first hunters and collectors to the era of villages and cities.[NEWLINE]
+
+		  [NEWLINE]The earliest discovered artifacts of indigenous peoples in Panama include Paleo-Indians projectile points. Later central Panama was home to some of the first pottery-making in the Americas, for example the cultures at Monagrillo, which date back to 2500–1700 BC. These evolved into significant populations best known through their spectacular burials (dating to c. 500–900 AD) at the Monagrilloarchaeological site, and their beautiful Gran Coclé style polychrome pottery. The monumental monolithic sculptures at the Barriles(Chiriqui) site are also important traces of these ancient isthmian cultures.[NEWLINE]
+
+		  [NEWLINE]Before Europeans arrived Panama was widely settled by Chibchan, Chocoan, and Cueva peoples. The largest group were the Cueva (whose specific language affiliation is poorly documented). The size of the indigenous population of the isthmus at the time of European colonization is uncertain. Estimates range as high as two million people, but more recent studies place that number closer to 200,000. Archaeological finds and testimonials by early European explorers describe diverse native isthmian groups exhibiting cultural variety and suggesting people with developedned by regular regional routes of commerce.[NEWLINE]
+
+		  [NEWLINE]When Panama was colonized, the indigenous peoples fled into the forest and nearby islands. Scholars believe that infectious disease was the primary cause of the population decline of American natives. The indigenous peoples had no acquired immunity to diseases which had been chronic in Eurasian populations for centuries.
+	  </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_PANAMA_TEXT_2">
+      <Text>
+		  Rodrigo de Bastidas, sailing westward from Venezuela in 1501 in search of gold, was the first European to explore the isthmus of Panama. A year later, Christopher Columbus visited the isthmus and established a short-lived settlement in the Darien. Vasco Núñez de Balboa's tortuous trek from the Atlantic to the Pacific in 1513 demonstrated that the isthmus was, indeed, the path between the seas, and Panama quickly became the crossroads and marketplace of Spain's empire in the New World. Gold and silver were brought by ship from South America, hauled across the isthmus, and loaded aboard ships for Spain. The route became known as the Camino Real, or Royal Road, although it was more commonly known as Camino de Cruces (Road of Crosses) because of the number of gravesites along the way.[NEWLINE]
+
+		  [NEWLINE]Panama was under Spanish rule for almost 300 years (1538–1821) and became part of the Viceroyalty of Peru, along with all other Spanish possessions in South America. From the outset, Panamanian identity was based on a sense of "geographic destiny", and Panamanian fortunes fluctuated with the geopolitical importance of the isthmus. The colonial experience also spawned Panamanian nationalism as well as a racially complex and highly stratified society, the source of internal conflicts that ran counter to the unifying force of nationalism.[NEWLINE]
+
+		  [NEWLINE]In 1538, the Real Audiencia de Panama was established, initially with jurisdiction from Nicaragua to Cape Horn before the conquest of Peru. A Real Audiencia (royal audiency) was a judicial district that functioned as an appeals court. Each audiencia had an oidores (Spanish: hearer, a judge).[NEWLINE]
+
+		  [NEWLINE]Spanish authorities had little control over much of the territory of Panama. Large sections managed to resist conquest and missionization until very late in the colonial era. Because of this, indigenous people of the area were often referred to as "indios de guerra" (war Indians) and resisted Spanish attempts to conquer them or missionize them. However, Panama was enormously important to Spain strategically because it was the easiest way to transship silver mined in Peru to Europe. Silver cargos were landed at Panama and then taken overland to Portobello or Nombre de Dios on the Caribbean side of the isthmus for further shipment.[NEWLINE]
+
+		  [NEWLINE]Because of the incomplete Spanish control, the Panama route was vulnerable to attack from pirates (mostly Dutch and English) and from 'new world' Africans called cimarrons who had freed themselves from enslavement and lived in communes or palenques around the Camino Real in Panama's Interior, and on some of the islands off Panama's Pacific coast. One such famous community amounted to a small kingdom under Bayano, which emerged in the 1552 to 1558. Sir Francis Drake's famous raids on Panama in 1572–73 were aided by Panama cimarrons, and Spanish authorities were only able to bring them under control by making an alliance with them that guaranteed their freedom in exchange for military support in 1582.[NEWLINE]
+
+		  [NEWLINE]The prosperity enjoyed during the first two centuries (1540–1740) while contributing to colonial growth; the placing of extensive regional judicial authority (Real Audiencia) as part of its jurisdiction; and the pivotal role it played at the height of the Spanish Empire – the first modern global empire – helped define a distinctive sense of autonomy and of regional or national identity within Panama well before the rest of the colonies.[NEWLINE]
+
+		  [NEWLINE]The end of the encomienda system in Azuero, however, sparked the conquest of Veraguas in that same year. Under the leadership of Francisco Vázquez, the region of Veraguas passed into Castillan rule in 1558. In the newly conquered region, the old system of encomienda was imposed. On the other hand, the Panamanian movement for independence can be indirectly attributed to the abolishment of the encomienda system in the Azuero Peninsula, set forth by the Spanish Crown, in 1558 because of repeated protests by locals against the mistreatment of the native population. In its stead, a system of medium and smaller-sized landownership was promoted, thus taking away the power from the large landowners and into the hands of medium and small sized proprietors.[NEWLINE]
+
+		  [NEWLINE]Panama was the site of the ill-fated Darien scheme, which set up a Scottish colony in the region in 1698. This failed for a number of reasons, and the ensuing debt contributed to the union of England and Scotland in 1707.[NEWLINE]
+
+		  [NEWLINE]In 1671, the privateer Henry Morgan, licensed by the English government, sacked and burned the city of Panama – the second most important city in the Spanish New World at the time. In 1717, the viceroyalty of New Granada (northern South America) was created in response to other Europeans trying to take Spanish territory in the Caribbean region. The Isthmus of Panama was placed under its jurisdiction. However, the remoteness of New Granada's capital, Santa Fe de Bogotá (the modern capital of Colombia) proved a greater obstacle than the Spanish crown anticipated as the authority of New Granada was contested by the seniority, closer proximity, and previous ties to the viceroyalty of Lima and even by Panama's own initiative. This uneasy relationship between Panama and Bogotá would persist for centuries.[NEWLINE]
+
+		  [NEWLINE]In 1744, Bishop Francisco Javier de Luna Victoria DeCastro established the College of San Ignacio de Loyola and on June 3, 1749, founded La Real y Pontificia Universidad de San Javier. By this time, however, Panama's importance and influence had become insignificant as Spain's power dwindled in Europe and advances in navigation technique increasingly permitted to round Cape Horn in order to reach the Pacific. While the Panama route was short it was also labor-intensive and expensive because of the loading and unloading and laden-down trek required to get from the one coast to the other.
+		  During the last half of the 18th century and the first half of the 19th century, migrations to the countryside decreased Panama City's population and the isthmus' economy shifted from the tertiary to the primary sector.
+	  </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_PANAMA_TEXT_3">
+      <Text>
+		  As the Spanish American wars of independence were heating up all across Latin America, Panama City was preparing for independence; however, their plans were accelerated by the unilateral Grito de La Villa de Los Santos (Cry From the Town of Saints), issued on November 10, 1821 by the residents of Azuero without backing from Panama City to declare their separation from the Spanish Empire. In both Veraguas and the capital this act was met with disdain, although on differing levels. To Veraguas, it was the ultimate act of treason, while to the capital, it was seen as inefficient and irregular, and furthermore forced them to accelerate their plans.[NEWLINE]
+
+		  [NEWLINE]Nevertheless, the Grito was an event that shook the isthmus to its very core. It was a sign, on the part of the residents of Azuero, of their antagonism toward the independence movement in the capital. Those in the capital region in turn regarded the Azueran movement with contempt, since the separatists in Panama City believed that their counterparts in Azuero were fighting not only for independence from Spain, but also for their right to self-rule apart from Panama City once the Spaniards were gone.[NEWLINE]
+
+		  [NEWLINE]It was an incredibly brave move on the part of Azuero, which lived in fear of Colonel José Pedro Antonio de Fábrega y de las Cuevas(1774–1841), and with good reason. The Colonel was a staunch loyalist and had all of the isthmus' military supplies in his hands.They feared quick retaliation and swift retribution against the separatists.[NEWLINE]
+
+		  [NEWLINE]What they had counted on, however, was the influence of the separatists in the capital. Ever since October 1821, when the former Governor General, Juan de la Cruz Murgeón, left the isthmus on a campaign in Quito and left the Veraguan colonel in charge, the separatists had been slowly converting Fábrega to the separatist side. So, by November 10, Fábrega was now a supporter of the independence movement. Soon after the separatist declaration of Los Santos, Fábrega convened every organization in the capital with separatist interests and formally declared the city's support for independence. No military repercussions occurred because of the skillful bribing of royalist troops.
+	  </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_PANAMA_TEXT_4">
+      <Text>
+		  In the first eighty years following independence from Spain, Panama was a department of Colombia, after voluntarily joining it at the end of 1821. The people of the isthmus made several attempts to secede and came close to success in 1831, and again during the Thousand Days' War of 1899–1902. When the Senate of Colombia rejected the Hay–Herrán Treaty, the United States decided to support the Panamanian independence movement.[NEWLINE]
+
+		  [NEWLINE]In November 1903 Panama proclaimed its independence and concluded the Hay–Bunau-Varilla Treaty with the United States. The treaty granted rights to the United States "as if it were sovereign" in a zone roughly 16 km (10 mi) wide and 80 km (50 mi) long. In that zone, the U.S. would build a canal, then administer, fortify, and defend it "in perpetuity". In 1914, the United States completed the existing 83 km (52 mi) canal. The early 1960s saw the beginning of sustained pressure in Panama for the renegotiation of this treaty. [NEWLINE]
+
+		  [NEWLINE]The US intention to influence the area, especially the Panama Canal's construction and control, led to the separation of Panama from Colombia in 1903 and its establishment as a nation. The United States intensively encouraged the Panamanian separatist movement. From 1903 to 1968, Panama was a constitutional democracy dominated by a commercially oriented oligarchy. During the 1950s, the Panamanian military began to challenge the oligarchy's political hegemony.[NEWLINE]
+
+		  [NEWLINE]Amid negotiations for the Robles–Johnson treaty, Panama held elections in 1968. The candidates were: Dr. Arnulfo Arias Madrid,Unión Nacional ("National Union"), Antonio González Revilla,Democracia Cristiana ("Christian Democrats"), and engineer David Samudio, Alianza del Pueblo ("People's Alliance") who had the government's support.[NEWLINE]
+
+		  [NEWLINE]Arias Madrid was declared the winner of elections that were marked by violence and accusations of fraud against Alianza del Pueblo. On October 1, 1968, Arias Madrid took office as president of Panama, promising to lead a government of "national union" that would end the reigning corruption and pave the way for a new Panama. A week and a half later, on October 11, 1968, the National Guard (Guardia Nacional) ousted Arias and initiated the downward spiral that would culminate with the United States' invasion in 1989. Arias, who had promised to respect the hierarchy of the National Guard, broke the pact and started a large restructuring of the Guard. To preserve the Guard's interests, Lieutenant Colonel Omar Torrijos Herrera and Major Boris Martínez commanded the first military coup against a civilian government in Panamanian republican history.[NEWLINE]
+
+		  [NEWLINE]The military justified itself by declaring that Arias Madrid was trying to install a dictatorship, and promised a return to constitutional rule. In the meantime, the Guard began a series of populist measures that would gain support for the coup. Among them were: Price freezing on food, medicine and other goods until January 31, 1969, rent level freeze, legalization of the permanence of squatting families in boroughs surrounding the historic site of Panama Viejo.[NEWLINE]
+
+		  [NEWLINE]Parallel to this, the military began a policy of repression against the opposition, who were labeled communists. The military appointed a Provisional Government Junta that was to arrange new elections. However, the National Guard would prove to be very reluctant to abandon power and soon began calling itself El Gobierno Revolucionario ("The Revolutionary Government").
+	  </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_PANAMA_TEXT_5">
+      <Text>
+		  During Omar Torrijos's control, the military regime transformed the political and economic structure of the country by initiating massive coverage of social security services and expanding public education. The constitution was changed in 1972. For the reform to the constitution, the military created a new organization, the Assembly of Corregimiento Representatives, which replaced the National Assembly. The new assembly, also known as the Poder Popular ("Power of the People"), was composed of 505 members selected by the military with no participation from political parties, which the military had eliminated. The new constitution proclaimed Omar Torrijos the "Maximum Leader of the Panamanian Revolution", and conceded him unlimited power for six years, although, to keep a façade of constitutionality, Demetrio B. Lakaswas appointed president for the same period (Pizzurno Gelós and Araúz, Estudios sobre el Panamá republicano 541).[NEWLINE]
+
+		  [NEWLINE]In 1981 Torrijos died in a plane crash. Torrijos' death altered the tone of Panama's political evolution. Despite the 1983 constitutional amendments, which proscribed a political role for the military, the Panama Defense Forces (PDF), as they were then known, continued to dominate Panamanian political life. By this time, General Manuel Noriegawas firmly in control of both the PDF and the civilian government.[NEWLINE]
+
+		  [NEWLINE]Barletta was declared the winner of elections that had been clearly won by Madrid. Ardito Barletta inherited a country in economic ruin and hugely indebted to the International Monetary Fund and the World Bank. Amid the economic crisis and Barletta's efforts to calm the country's creditors, street protests arose, and so did military repression.[NEWLINE]
+
+		  [NEWLINE]Meanwhile, Noriega's regime had fostered a well-hidden criminal economy that operated as a parallel source of income for the military and their allies, providing revenues from drugs and money laundering. Toward the end of the military dictatorship, a new wave of Chinese migrants arrived on the isthmus in the hope of migrating to the United States. The smuggling of Chinese became an enormous business, with revenues of up to 200 million dollars for Noriega's regime.[NEWLINE]
+
+		  [NEWLINE]The military dictatorship, at that time supported by the United States, perpetrated the assassination and torture of more than one hundred Panamanians and forced at least a hundred more dissidents into exile. Noriega also began playing a double role in Central America under the supervision of the CIA. While the Contadora group conducted diplomatic efforts to achieve peace in the region, Noriega supplied Nicaraguan Contras and other guerrillas in the region with weapons and ammunition.[NEWLINE]
+
+		  [NEWLINE]On June 6, 1987, the recently retired Colonel Roberto Díaz Herrera, resentful that Noriega's broke the agreed "Torrijos Plan" of succession that would have made him the chief of the military after Noriega, decided to denounce the regime. He revealed details of the electoral fraud, accused Noriega of planning Torrijos's death and declared that Torrijos had received 12 million dollars from the Shah of Iran for giving the exiled Iranian leader asylum. He also accused Noriega of the assassination by decapitation of then opposition leader Dr. Hugo Spadafora.[NEWLINE]
+
+		  [NEWLINE]On the night of June 9, 1987, the Cruzada Civilista ("Civic Crusade") was created and began organizing actions of civil disobedience. The Crusade called for a general strike. In response, the military suspended constitutional rights and declared a state of emergency in the country. On July 10, the Civic Crusade called for a massive demonstration that was violently repressed by the "Dobermans", the military's special riot control unit. That day, later known as El Viernes Negro ("Black Friday"), left six hundred people injured and another six hundred detained, many of whom were later tortured and raped.[NEWLINE]
+
+		  [NEWLINE]United States President Ronald Reagan began a series of sanctions against the military regime. The United States froze economic and military assistance to Panama in the summer of 1987 in response to the domestic political crisis in Panama and an attack on the U.S. Embassy. Yet these sanctions did little to overthrow Noriega but instead severely damaged Panama's economy. The sanctions hit the Panamanian population hard and caused the Gross Domestic Product (GDP) to decline almost 25% between 1987–1989.[NEWLINE]
+
+		  [NEWLINE]On February 5, 1988, General Manuel Antonio Noriega was accused of drug trafficking by federal juries in Tampa and Miami.[NEWLINE]
+
+		  [NEWLINE]In April 1988, the U.S. President Ronald Reagan invoked the International Emergency Economic Powers Act, freezing Panamanian government assets in all U.S. organizations. In May 1989 Panamanians voted overwhelmingly for the anti-Noriega candidates. The Noriega regime promptly annulled the election and embarked on a new round of repression.
+	  </Text>
+    </Row>
+	<Row Tag="TXT_KEY_CIV5_PANAMA_TEXT_6">
+		<Text>
+			The United States government said Operation Just Cause, which commenced on December 20, 1989, was necessary to safeguard the lives of U.S. citizens in Panama, defend democracy and human rights, combat drug trafficking, and secure the neutrality of the Panama Canal as required by the Torrijos–Carter Treaties. Human Rights Watch wrote in the 1989 report: "Washington turned a blind eye to abuses in Panama for many years until concern over drug trafficking prompted indictments of the general by two grand juries in Florida in February 1988". The U.S. reported 23 servicemen killed and 324 wounded, with Panamanian casualties estimated around 450. Described as a surgical maneuver, the action led to civilian deaths whose estimated numbers range from 400 to 4,000 during the two weeks of armed activities. This surgical maneuver represented the largest United States military operation to that date since the end of the Vietnam War. The United Nations put the Panamanian civilian death toll at 500, while other sources had higher statistics. The number of U.S. civilians (and their dependents), who had worked for the Panama Canal Commission and the U.S. Military, and were killed by the Panamanian Defense Forces, has never been fully disclosed.[NEWLINE]
+
+			[NEWLINE]On December 29, the UN General Assembly approved a resolution calling the intervention in Panama a "flagrant violation of international law and of the independence, sovereignty and territorial integrity of the States". The resolution was vetoed by the United States, the United Kingdom, and France.
+			The urban population, with many living below the poverty level, was greatly affected by the 1989 intervention. As pointed out in 1995 by a UN Technical Assistance Mission to Panama, the bombardments during the invasion caused the displacement of 20,000 people. The most heavily affected district was impoverished El Chorrillo, where several blocks of apartments were completely destroyed. El Chorrillo had been built in days of Canal construction, a series of wooden barracks which easily caught fire under the United States attack. The economic damage caused by the intervention has been estimated to be between 1.5 and 2 billion dollars. Many Panamanians supported the intervention.
+		</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIV5_PANAMA_TEXT_7">
+		<Text>
+			Panama's Electoral Tribunal moved quickly to restore the civilian constitutional government, reinstated the results of the May 1989 election on December 27, 1989, and confirmed the victory of President Guillermo Endara and Vice Presidents Guillermo Ford and Ricardo Arias Calderon.[NEWLINE]
+
+			[NEWLINE]During its five-year term, the often-fractious government struggled to meet the public's high expectations. Its new police force was a major improvement over its predecessor but was not fully able to deter crime. Ernesto Pérez Balladares was sworn in as President on September 1, 1994, after an internationally monitored election campaign.[NEWLINE]
+
+			[NEWLINE]Perez Balladares ran as the candidate for a three-party coalition dominated by the Democratic Revolutionary Party (PRD), the erstwhile political arm of military dictatorships. Perez Balladares worked skillfully during the campaign to rehabilitate the PRD's image, emphasizing the party's populist Torrijos roots rather than its association with Noriega. He won the election with only 33% of the vote when the major non-PRD forces splintered into competing factions. His administration carried out economic reforms and often worked closely with the U.S. on implementation of the Canal treaties.[NEWLINE]
+
+			[NEWLINE]On September 1, 1999, Mireya Moscoso, the widow of former President Arnulfo Arias Madrid, took office after defeating PRD candidate Martin Torrijos, son of Omar Torrijos, in a free and fair election. During her administration, Moscoso attempted to strengthen social programs, especially for child and youth development, protection, and general welfare. Moscoso's administration successfully handled the Panama Canal transfer and was effective in the administration of the Canal.[NEWLINE]
+
+			[NEWLINE]The PRD's Martin Torrijos won the presidency and a legislative majority in the National Assembly in 2004. Torrijos ran his campaign on a platform of, among other pledges, a "zero tolerance" for corruption, a problem endemic to the Moscoso and Perez Balladares administrations. After taking office, Torrijos passed a number of laws which made the government more transparent. He formed a National Anti-Corruption Council whose members represented the highest levels of government and civil society, labor organizations, and religious leadership. In addition, many of his closest Cabinet ministers were non-political technocrats known for their support for the Torrijos government's anti-corruption aims. Despite the Torrijos administration's public stance on corruption, many high-profile cases, particularly involving political or business elites, were never acted upon.[NEWLINE]
+
+			[NEWLINE]Conservative supermarket magnate Ricardo Martinelli was elected to succeed Martin Torrijos with a landslide victory in the May 2009 presidential election. Mr. Martinelli's business credentials drew voters worried by slowing growth due to the world financial crisis. Standing for the four-party opposition Alliance for Change, Mr. Martinelli gained 60% of the vote, against 37% for the candidate of the governing left-wing Democratic Revolutionary Party.[NEWLINE]
+
+			[NEWLINE]On May 4, 2014, Juan Carlos Varela won the 2014 presidential election with over 39% of the votes, against the party of his former political partner Ricardo Martinelli, Cambio Democrático, and their candidate José Domingo Arias. He was sworn in on 1 July 2014.
+		</Text>
+	</Row>
+		
+    <Row Tag="TXT_KEY_CIV5_PANAMA_TITLE">
+      <Text>Panama</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_PANAMA_SHORT_DESC">
+      <Text>Panama</Text>
+      <Gender>neuter:an</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_PANAMA_ADJECTIVE">
+      <Text>Panamanian</Text>
+      <Gender>neuter:an</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_DAWN_PANAMA_TEXT">
+		<Text>May the blessings of God be upon you, President Manuel Amador Guererro! You were the first President of the Republic of Panama as well as a crucial leader in gaining Panama’s independence from Colombia. Panama was first settled by the Spanish in the 16th century. Panama soon grew into an important center of trade in the Spanish Empire due to its strategic location. Panama broke away from Spain in 1821 to join the Republic of Gran Colombia. When Gran Colombia dissolved, Panama remained a part of Colombia until it seceded in 1903. As part of the secession agreement backed by the United States, Panama allowed American engineers to construct and operate the Panama Canal. Panama quickly became the shipping hub of the Americas, as ships preferred to travel through the calm locks of the Panama Canal rather than the icy waters of the Strait of Magellan. In 1999, America transferred full ownership of the canal to Panama.[NEWLINE][NEWLINE] President Guererro, your people call upon you to lead Panama once again. To make Panama the hub of trade once again. President, will you take up the challenge? Can you build a civilization to stand the test of time?</Text>
+	</Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PANAMA_0">
+      <Text>Panama City</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PANAMA_1">
+      <Text>Colón</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PANAMA_2">
+      <Text>Balboa</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PANAMA_3">
+      <Text>San Miguelito</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PANAMA_4">
+      <Text>Tocumen</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PANAMA_5">
+      <Text>David</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PANAMA_6">
+      <Text>Las Cumbres</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PANAMA_7">
+      <Text>La Chorrera</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PANAMA_8">
+      <Text>Pacora</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PANAMA_9">
+      <Text>Santiago de Veraguas</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PANAMA_10">
+      <Text>Chitré</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PANAMA_11">
+		<Text>Arraiján</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PANAMA_12">
+      <Text>Vista Alegre</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PANAMA_13">
+      <Text>Chilibre</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PANAMA_14">
+      <Text>Cativá</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PANAMA_15">
+      <Text>Nuevo Arraiján</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PANAMA_16">
+      <Text>Changuinola</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_PANAMA_17">
+      <Text>Alcalde Díaz</Text>
+    </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_PANAMA_18">
+		  <Text>Penonomé</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_PANAMA_19">
+		  <Text>La Cabima</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_PANAMA_20">
+		  <Text>Puerto Armuelles</Text>
+	  </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_PANAMA_0">
+      <Text>El Capitan</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_PANAMA_1">
+      <Text>Chapo</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_PANAMA_2">
+      <Text>Antonio</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_PANAMA_3">
+      <Text>Ferninand</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_PANAMA_4">
+      <Text>Alan</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_PANAMA_5">
+      <Text>Angel</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_PANAMA_6">
+      <Text>Isabella</Text>
+		<Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_PANAMA_7">
+      <Text>Jesus</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_PANAMA_8">
+      <Text>Angelica</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_PANAMA_9">
+      <Text>Jose</Text>
+    </Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GRENADA">
+			<Text>Grenada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_GRENADA_ADJ">
+			<Text>Grenadian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GRENADA_TEXT">
+			<Text>Grenada is a small island in the Carribean.</Text>
+		</Row>
+  </Language_en_US>
+</GameData>

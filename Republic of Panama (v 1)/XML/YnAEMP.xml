@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/25/2014 7:54:11 AM -->
+<GameData>
+	<Civilizations_YagemStartPosition>
+		<Row>
+			<Type>CIVILIZATION_PANAMA</Type>
+			<X>149</X>
+			<Y>41</Y>
+		</Row>
+	</Civilizations_YagemStartPosition>
+	<!--MinorCiv_YagemStartPosition>
+		<Update>
+			<Type>MINOR_CIV_PANAMA_CITY</Type>
+			<X>161</X>
+			<Y>44</Y>
+		</Update>
+	</MinorCiv_YagemStartPosition!-->
+	<!-- +++++++++++++++++++++++++++++ -->
+	<!-- Earth Huge map start position -->
+	<!-- +++++++++++++++++++++++++++++ -->
+	<Civilizations_YahemStartPosition>
+		<Row>
+			<Type>CIVILIZATION_PANAMA</Type>
+			<X>28</X>
+			<Y>39</Y>
+		</Row>
+	</Civilizations_YahemStartPosition>
+	<!--MinorCiv_YahemStartPosition>
+		<Update>
+			<Type>MINOR_CIV_PANAMA_CITY</Type>
+			<X>36</X>
+			<Y>40</Y>
+		</Update>
+	</MinorCiv_YahemStartPosition-->
+	<!-- ++++++++++++++++++++++++++++++++++ -->
+	<!-- Earth Cordiform map start position -->
+	<!-- ++++++++++++++++++++++++++++++++++ -->
+	<Civilizations_CordiformStartPosition>
+		<Row>
+			<Type>CIVILIZATION_PANAMA</Type>
+			<X>11</X>
+			<Y>20</Y>
+		</Row>
+	</Civilizations_CordiformStartPosition>
+</GameData>

@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+
+  <Buildings>
+    <Row>
+      <Type>BUILDING_FREE_TRADE_PORT</Type>
+      <Description>TXT_KEY_BUILDING_FREE_TRADE_PORT_DESC</Description>
+      <Civilopedia>TXT_KEY_CIV5_BUILDINGS_FREE_TRADE_PORT_TEXT</Civilopedia>
+      <Strategy>TXT_KEY_BUILDING_FREE_TRADE_PORT_STRATEGY</Strategy>
+      <Help>TXT_KEY_BUILDING_FREE_TRADE_PORT_HELP</Help>
+		<ThemingBonusHelp></ThemingBonusHelp>
+		<Quote></Quote>
+		<GoldMaintenance>2</GoldMaintenance>
+		<MutuallyExclusiveGroup>-1</MutuallyExclusiveGroup>
+		<TeamShare>0</TeamShare>
+		<Water>1</Water>
+		<River>0</River>
+		<FreshWater>0</FreshWater>
+		<Mountain>0</Mountain>
+		<NearbyMountainRequired>0</NearbyMountainRequired>
+		<Hill>0</Hill>
+		<Flat>0</Flat>
+		<FoundsReligion>0</FoundsReligion>
+		<IsReligious>0</IsReligious>
+		<BorderObstacle>0</BorderObstacle>
+		<PlayerBorderObstacle>0</PlayerBorderObstacle>
+		<Capital>0</Capital>
+		<GoldenAge>0</GoldenAge>
+		<MapCentering>0</MapCentering>
+		<NeverCapture>0</NeverCapture>
+		<NukeImmune>0</NukeImmune>
+		<AllowsWaterRoutes>0</AllowsWaterRoutes>
+		<ExtraLuxuries>0</ExtraLuxuries>
+		<DiplomaticVoting>0</DiplomaticVoting>
+		<AffectSpiesNow>0</AffectSpiesNow>
+		<NullifyInfluenceModifier>0</NullifyInfluenceModifier>
+		<Cost>250</Cost>
+		<FaithCost>0</FaithCost>
+		<LeagueCost>0</LeagueCost>
+		<UnlockedByBelief>0</UnlockedByBelief>
+		<UnlockedByLeague>0</UnlockedByLeague>
+		<HolyCity>0</HolyCity>
+		<NumCityCostMod>0</NumCityCostMod>
+		<HurryCostModifier>25</HurryCostModifier>
+		<MinAreaSize>10</MinAreaSize>
+		<ConquestProb>66</ConquestProb>
+		<CitiesPrereq>0</CitiesPrereq>
+		<LevelPrereq>0</LevelPrereq>
+		<CultureRateModifier>0</CultureRateModifier>
+		<GlobalCultureRateModifier>0</GlobalCultureRateModifier>
+		<GreatPeopleRateModifier>0</GreatPeopleRateModifier>
+		<GlobalGreatPeopleRateModifier>0</GlobalGreatPeopleRateModifier>
+		<GreatGeneralRateModifier>0</GreatGeneralRateModifier>
+		<GreatPersonExpendGold>0</GreatPersonExpendGold>
+		<GoldenAgeModifier>0</GoldenAgeModifier>
+		<UnitUpgradeCostMod>0</UnitUpgradeCostMod>
+		<Experience>0</Experience>
+		<GlobalExperience>0</GlobalExperience>
+		<FoodKept>0</FoodKept>
+		<Airlift>0</Airlift>
+		<AirModifier>0</AirModifier>
+		<NukeModifier>0</NukeModifier>
+		<NukeExplosionRand>0</NukeExplosionRand>
+		<HealRateChange>0</HealRateChange>
+		<Happiness>0</Happiness>
+		<UnmoddedHappiness>0</UnmoddedHappiness>
+		<UnhappinessModifier>0</UnhappinessModifier>
+		<HappinessPerCity>0</HappinessPerCity>
+		<HappinessPerXPolicies>0</HappinessPerXPolicies>
+		<CityCountUnhappinessMod>0</CityCountUnhappinessMod>
+		<NoOccupiedUnhappiness>0</NoOccupiedUnhappiness>
+		<WorkerSpeedModifier>0</WorkerSpeedModifier>
+		<MilitaryProductionModifier>0</MilitaryProductionModifier>
+		<SpaceProductionModifier>0</SpaceProductionModifier>
+		<GlobalSpaceProductionModifier>0</GlobalSpaceProductionModifier>
+		<BuildingProductionModifier>0</BuildingProductionModifier>
+		<WonderProductionModifier>0</WonderProductionModifier>
+		<CityConnectionTradeRouteModifier>0</CityConnectionTradeRouteModifier>
+		<CapturePlunderModifier>0</CapturePlunderModifier>
+		<PolicyCostModifier>0</PolicyCostModifier>
+		<PlotCultureCostModifier>0</PlotCultureCostModifier>
+		<GlobalPlotCultureCostModifier>0</GlobalPlotCultureCostModifier>
+		<PlotBuyCostModifier>0</PlotBuyCostModifier>
+		<GlobalPlotBuyCostModifier>0</GlobalPlotBuyCostModifier>
+		<GlobalPopulationChange>0</GlobalPopulationChange>
+		<TechShare>0</TechShare>
+		<FreeTechs>0</FreeTechs>
+		<FreePolicies>0</FreePolicies>
+		<FreeGreatPeople>0</FreeGreatPeople>
+		<MedianTechPercentChange>0</MedianTechPercentChange>
+		<Gold>0</Gold>
+		<AllowsRangeStrike>0</AllowsRangeStrike>
+		<Espionage>0</Espionage>
+		<AllowsFoodTradeRoutes>0</AllowsFoodTradeRoutes>
+		<AllowsProductionTradeRoutes>0</AllowsProductionTradeRoutes>
+		<Defense>0</Defense>
+		<ExtraCityHitPoints>0</ExtraCityHitPoints>
+		<GlobalDefenseMod>0</GlobalDefenseMod>
+		<MinorFriendshipChange>0</MinorFriendshipChange>
+		<VictoryPoints>0</VictoryPoints>
+		<ExtraMissionarySpreads>0</ExtraMissionarySpreads>
+		<ReligiousPressureModifier>0</ReligiousPressureModifier>
+		<EspionageModifier>0</EspionageModifier>
+		<GlobalEspionageModifier>0</GlobalEspionageModifier>
+		<ExtraSpies>0</ExtraSpies>
+		<SpyRankChange>0</SpyRankChange>
+		<InstantSpyRankChange>0</InstantSpyRankChange>
+		<TradeRouteRecipientBonus>4</TradeRouteRecipientBonus>
+		<TradeRouteTargetBonus>2</TradeRouteTargetBonus>
+		<NumTradeRouteBonus>0</NumTradeRouteBonus>
+		<LandmarksTourismPercent>0</LandmarksTourismPercent>
+		<InstantMilitaryIncrease>0</InstantMilitaryIncrease>
+		<GreatWorksTourismModifier>0</GreatWorksTourismModifier>
+		<XBuiltTriggersIdeologyChoice>0</XBuiltTriggersIdeologyChoice>
+		<TradeRouteSeaDistanceModifier>0</TradeRouteSeaDistanceModifier>
+		<TradeRouteSeaGoldBonus>0</TradeRouteSeaGoldBonus>
+		<TradeRouteLandDistanceModifier>0</TradeRouteLandDistanceModifier>
+		<TradeRouteLandGoldBonus>0</TradeRouteLandGoldBonus>
+		<CityStateTradeRouteProductionModifier>0</CityStateTradeRouteProductionModifier>
+		<GreatScientistBeakerModifier>0</GreatScientistBeakerModifier>
+		<BuildingClass>BUILDINGCLASS_SEAPORT</BuildingClass>
+		<ArtDefineTag>ART_DEF_BUILDING_SEAPORT</ArtDefineTag>
+		<NearbyTerrainRequired></NearbyTerrainRequired>
+		<ProhibitedCityTerrain></ProhibitedCityTerrain>
+		<VictoryPrereq></VictoryPrereq>
+		<FreeStartEra></FreeStartEra>
+		<MaxStartEra></MaxStartEra>
+		<ObsoleteTech></ObsoleteTech>
+		<EnhancedYieldTech></EnhancedYieldTech>
+		<TechEnhancedTourism>0</TechEnhancedTourism>
+		<FreeBuilding></FreeBuilding>
+		<FreeBuildingThisCity></FreeBuildingThisCity>
+		<FreePromotion></FreePromotion>
+		<TrainedFreePromotion></TrainedFreePromotion>
+		<FreePromotionRemoved></FreePromotionRemoved>
+		<ReplacementBuildingClass></ReplacementBuildingClass>
+		<PrereqTech>TECH_NAVIGATION</PrereqTech>
+		<PolicyBranchType></PolicyBranchType>
+		<SpecialistType></SpecialistType>
+		<SpecialistCount>0</SpecialistCount>
+		<GreatWorkSlotType></GreatWorkSlotType>
+		<FreeGreatWork></FreeGreatWork>
+		<GreatWorkCount>0</GreatWorkCount>
+		<SpecialistExtraCulture>0</SpecialistExtraCulture>
+		<GreatPeopleRateChange>0</GreatPeopleRateChange>
+		<ExtraLeagueVotes>0</ExtraLeagueVotes>
+		<CityWall>0</CityWall>
+		<DisplayPosition>0</DisplayPosition>
+		<PortraitIndex>3</PortraitIndex>
+		<WonderSplashImage></WonderSplashImage>
+		<WonderSplashAnchor>R,T</WonderSplashAnchor>
+		<WonderSplashAudio></WonderSplashAudio>
+		<IconAtlas>CIV_COLOR_ATLAS_PANAMA</IconAtlas>
+		<ArtInfoCulturalVariation>0</ArtInfoCulturalVariation>
+		<ArtInfoEraVariation>0</ArtInfoEraVariation>
+		<ArtInfoRandomVariation>0</ArtInfoRandomVariation>
+    </Row>
+  </Buildings>
+
+  <!-- Building_AreaYieldModifiers -->
+  <!-- Building_BuildingClassHappiness -->
+  <!-- Building_BuildingClassYieldChanges -->
+	<Building_ClassesNeededInCity>
+		<Row>
+			<BuildingType>BUILDING_FREE_TRADE_PORT</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_HARBOR</BuildingClassType>
+		</Row>
+	</Building_ClassesNeededInCity>
+  <!-- Building_FreeUnits -->
+  <!-- Building_DomainFreeExperiences -->
+  <!-- Building_DomainFreeExperiencePerGreatWork -->
+	<Building_DomainProductionModifiers>
+		<Row>
+			<BuildingType>BUILDING_FREE_TRADE_PORT</BuildingType>
+			<DomainType>DOMAIN_SEA</DomainType>
+			<Modifier>15</Modifier>
+		</Row>
+	</Building_DomainProductionModifiers>
+  <!-- Building_FreeSpecialistCounts -->
+  <Building_Flavors>
+		  <Row>
+			  <BuildingType>BUILDING_FREE_TRADE_PORT</BuildingType>
+			  <FlavorType>FLAVOR_NAVAL</FlavorType>
+			  <Flavor>16</Flavor>
+		  </Row>
+		  <Row>
+			  <BuildingType>BUILDING_FREE_TRADE_PORT</BuildingType>
+			  <FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			  <Flavor>40</Flavor>
+		  </Row>
+		  <Row>
+			  <BuildingType>BUILDING_FREE_TRADE_PORT</BuildingType>
+			  <FlavorType>FLAVOR_GOLD</FlavorType>
+			  <Flavor>20</Flavor>
+		  </Row>
+	  <Row>
+		  <BuildingType>BUILDING_FREE_TRADE_PORT</BuildingType>
+		  <FlavorType>FLAVOR_I_TRADE_ORIGIN</FlavorType>
+		  <Flavor>20</Flavor>
+	  </Row>
+	  <Row>
+		  <BuildingType>BUILDING_FREE_TRADE_PORT</BuildingType>
+		  <FlavorType>FLAVOR_I_TRADE_DESTINATION</FlavorType>
+		  <Flavor>20</Flavor>
+	  </Row>
+  </Building_Flavors>
+  <!-- Building_GlobalYieldModifiers -->
+  <!-- Building_HurryModifiers -->
+  <!-- Building_LocalResourceAnds -->
+  <!-- Building_LocalResourceOrs -->
+  <!-- Building_LockedBuildingClasses -->
+  <!-- Building_PrereqBuildingClasses -->
+  <!-- Building_ResourceQuantity -->
+  <!-- Building_ResourceQuantityRequirements -->
+  <!-- Building_ResourceYieldModifiers -->
+  <!-- Building_ResourceCultureChanges -->
+  <!-- Building_ResourceFaithChanges -->
+  <!-- Building_RiverPlotYieldChanges -->
+  <!-- Building_SeaPlotYieldChanges -->
+  <!-- Building_LakePlotYieldChanges -->
+	<Building_SeaResourceYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_FREE_TRADE_PORT</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_FREE_TRADE_PORT</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_SeaResourceYieldChanges>
+	<!--Building_ResourceYieldChanges -->
+  <!-- Building_TerrainYieldChanges -->
+  <!-- Building_SpecialistYieldChanges -->
+  <!-- Building_UnitCombatFreeExperiences -->
+  <!-- Building_UnitCombatProductionModifiers -->
+  <!-- Building_TechAndPrereqs -->
+  <!-- Building_YieldChangesPerPop -->
+  <!-- Building_YieldChangesPerReligion -->
+  <!-- Building_TechEnhancedYieldChanges -->
+	<Building_YieldModifiers>
+    <Row>
+      <BuildingType>BUILDING_FREE_TRADE_PORT</BuildingType>
+      <YieldType>YIELD_GOLD</YieldType>
+      <Yield>10</Yield>
+    </Row>
+
+  </Building_YieldModifiers>
+
+  <!-- Building_ThemingBonuses -->
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_BUILDING_FREE_TRADE_PORT_DESC">
+      <Text>Free Trade Port</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BUILDINGS_FREE_TRADE_PORT_TEXT">
+      <Text>A Free Trade Port is an international port with reduced or no tariffs for ships passing through. A Free Trade Port can boost trade through an area, especially if placed in a strategic area. The Colón Free Trade Zone is the largest Free Trade Port in the Americas and is a crucial port for ships passing through the Panama Canal.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_FREE_TRADE_PORT_STRATEGY">
+      <Text>The Free Trade Port is a unique Panamanian replacement for the seaport. It provides +10% [ICON_GOLD] Gold in addition to normal seaport bonuses. When another player sends a trade route to a city with a Free Trade Port, the city gains +4 [ICON_GOLD] Gold and the sender gains +2 [ICON_GOLD] Gold.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_FREE_TRADE_PORT_HELP">
+      <Text>Provides +10% [ICON_GOLD] Gold, +15% [ICON_PRODUCTION] Production to naval units, and +1 [ICON_GOLD] Gold and +1 [ICON_PRODUCTION] Production to sea resources. Foreign trade routes to this city generate +4 [ICON_GOLD] Gold in this city and +2 [ICON_GOLD] for the sender. Replaces the Seaport.</Text>
+    </Row>
+
+  </Language_en_US>
+</GameData>

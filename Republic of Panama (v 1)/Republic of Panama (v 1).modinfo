@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="bcc1911d-8ad3-4aeb-a616-3efbd11c77ac" version="1">
+  <Properties>
+    <Name>Republic of Panama</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Republic of Panama to the game under President Manuel Amador Guerrero.</Teaser>
+    <Description>Adds the Republic of Panama to the game under President Manuel Amador Guerrero.</Description>
+    <Authors>Technostar</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="A2A2B940EA85A664F03CFE40F1BB75A9" import="1">ART/AmadorDiplomacy.dds</File>
+    <File md5="215FC2DA98D32EBF4B35BB4F38DF39E1" import="1">ART/PanamaAtlas128.dds</File>
+    <File md5="3BDDEC48194A20C681A6531A0FE67A80" import="1">ART/PanamaAtlas256.dds</File>
+    <File md5="418E2DDD8BA253494969B86226E87345" import="1">ART/PanamaAtlas32.dds</File>
+    <File md5="12FCE7432DEA3698613927F6438A3854" import="1">ART/PanamaAtlas32Alpha.dds</File>
+    <File md5="A40B98193C279CB34920F2420E6233B9" import="1">ART/PanamaAtlas45.dds</File>
+    <File md5="6B8A5B25B8EBAAEAA5EA4CD4C45E64FD" import="1">ART/PanamaAtlas64.dds</File>
+    <File md5="50437049E457FECA8DF5E6B89B9B417A" import="1">ART/PanamaAtlas80.dds</File>
+    <File md5="FB84BB049D1855430BDA2BF49FB0B9BF" import="1">ART/PanamaMap.dds</File>
+    <File md5="0AF3745990CE773792E378AB16D77D16" import="0">LUA/PanamaFunctions.lua</File>
+    <File md5="6B6F03D5F8BE345B4686B4375B0795D7" import="1">XML/Atlas.xml</File>
+    <File md5="85A16524EEE5B0E63CA91492479E97C5" import="0">XML/Buildings.xml</File>
+    <File md5="C1F6FA1C17807CA87DEE47E5BD35AA06" import="0">XML/Civilization.xml</File>
+    <File md5="88191A65A59EE34C59BD57EEFC2C9CB4" import="0">XML/DiplomacyResponses.xml</File>
+    <File md5="F51A0539AE0F1A1E4F629DD6B6505508" import="0">XML/Leader.xml</File>
+    <File md5="D0CD31986A9A24439417FD25155882CD" import="1">XML/Amador_Scene.xml</File>
+    <File md5="F9928D3F73E1D82A058649B7CBBACBA9" import="0">XML/Canal.xml</File>
+    <File md5="BDDF51233B6D761415636D7DE9A0BA7F" import="0">XML/Trait.xml</File>
+    <File md5="4136E925DE149CA55ADE3C831CCC002A" import="0">XML/Units.xml</File>
+    <File md5="54FA91BA1D94150265DBE039FAF25272" import="0">XML/YnAEMP.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Canal.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Trait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Atlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DiplomacyResponses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/YnAEMP.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Amador_Scene.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="LUA/PanamaFunctions.lua">
+      <Name>Panama LUA</Name>
+      <Description>Panama LUA</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>
